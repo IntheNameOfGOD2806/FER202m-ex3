@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <>
       <h1>
-        FPT University
+      hello world
       </h1>
         dasdadadad
       </>
